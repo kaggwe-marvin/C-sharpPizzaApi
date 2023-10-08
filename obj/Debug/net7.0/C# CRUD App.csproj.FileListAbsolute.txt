@@ -1,0 +1,33 @@
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\appsettings.json
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\C# CRUD App.exe
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\C# CRUD App.deps.json
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\C# CRUD App.runtimeconfig.json
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\C# CRUD App.dll
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\C# CRUD App.pdb
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marvin\builds\C# CRUD App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.csproj.AssemblyReference.cache
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.AssemblyInfoInputs.cache
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.AssemblyInfo.cs
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.csproj.CoreCompileInputs.cache
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets\msbuild.C# CRUD App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets\msbuild.build.C# CRUD App.props
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.C# CRUD App.props
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.C# CRUD App.props
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\scopedcss\bundle\C# CRUD App.styles.css
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.csproj.CopyComplete
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.dll
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\refint\C# CRUD App.dll
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.pdb
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\C# CRUD App.genruntimeconfig.cache
+C:\Users\marvin\builds\C# CRUD App\obj\Debug\net7.0\ref\C# CRUD App.dll
